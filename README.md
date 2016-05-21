@@ -2,7 +2,7 @@
 Reap Benefit builds the next generation of problem solvers by involving students in implementing solutions for local environment and civic problems.  They have worked with dozens of schools reaching many thousands of students through on-the-ground, paper-and-pen, stick-in-the-sand methods.  They are seeing real good traction among students to solve local civic problems and now want to create a platform to scale and reach many million citizens.
 
 # See Video of Kuldeep talking about ReapBenefit at Launchpad 2015
-[![Watch Kuldeep's talk about ReapBenefit](https://www.dropbox.com/s/zpvxitqm4lmw3xr/reapbenefit-audit-tools-and-solutionsjpg.jpg?dl=0)](https://vimeo.com/135623427 "Kuldeep on ReadBenefit")
+[![Watch Kuldeep's talk about ReapBenefit](https://www.dropbox.com/s/zpvxitqm4lmw3xr/reapbenefit-audit-tools-and-solutionsjpg.jpg?dl=0&raw=1)](https://vimeo.com/135623427 "Kuldeep on ReadBenefit")
 
 _Extracts from the talk._
 
@@ -10,7 +10,7 @@ ReapBenefit started working with GarbageCollection.  But there are more civic pr
 
 Vibish is a 15 year old student who approached them to solve a problem of water wastage in their school.  ReapBenefit gives him a way to do an audit and measure what is the price being paid: tens of thousands of litres of good water.  Based on the data, ReapBenefit figures out a low cost fixture that can be attached to the taps saving water for the school, the earth, and every one of us indirectly - enough water to keep the school functional for an entire year.  Vibish is now a problem solver.
 
-[Innovative, cut water cans as waterless urinals](https://www.dropbox.com/s/epmm0fxp82e024f/reapbenefit-custom-waterless-urinal.jpg?dl=0)
+![Innovative, cut water cans as waterless urinals](https://www.dropbox.com/s/epmm0fxp82e024f/reapbenefit-custom-waterless-urinal.jpg?dl=0&raw=1)
 Toilets are not purely about sanitation.  It's also a matter of human dignity and self-respect.  In India there are about 13 Lakh public schools and 50-60% of them have dysfunctional toilets.  
 
 Now ReapBenefit wants to reach a Million young people in India in a space of 3 years.  This app is the beginning of helping them reach that audience.  
