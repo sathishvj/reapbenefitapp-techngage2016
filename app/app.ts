@@ -7,6 +7,9 @@ import {HomePage} from './pages/home/home';
 import {HappeningPage} from './pages/happening/happening';
 import {AddEventPage} from './pages/addevent/addevent';
 import {ProfilePage} from './pages/profile/profile';
+import {ContactsPage} from './pages/contacts/contacts';
+import {WaterAuditLandingPage} from './pages/wateraudit-landing/wateraudit-landing';
+import {AuditsPage} from './pages/audits/audits';
 
 import {
     FIREBASE_PROVIDERS, defaultFirebase,
@@ -51,6 +54,8 @@ export class MyApp {
         // { title: 'List', component: ListPage },
         { title: 'Home', component: HappeningPage},
         { title: 'Add Event', component: AddEventPage},
+        { title: 'Civic Authorities', component: ContactsPage},
+        { title: 'Audits', component: AuditsPage},
         { title: 'Profile', component: ProfilePage},
       ];
 

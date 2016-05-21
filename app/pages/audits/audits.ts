@@ -7,9 +7,9 @@ import {Page, NavController} from 'ionic-angular';
   Ionic pages and navigation.
 */
 @Page({
-  templateUrl: 'build/pages/contacts/contacts.html',
+  templateUrl: 'build/pages/audits/audits.html',
 })
-export class ContactsPage {
+export class AuditsPage {
 
   public items: any;
 
