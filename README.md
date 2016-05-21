@@ -40,3 +40,6 @@ AngularFire2 beta
 Firebase 2.4.2
 ```
 (\*) Outputs to Android, iOS, Windows Phone
+
+# ReapBenefit and me
+I'm currently a pro-bono advisor, well-wisher, and developer for ReapBenefit and am not a part of their organization in role, pay, or other employee benefits.
