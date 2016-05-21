@@ -2,6 +2,7 @@
 Reap Benefit builds the next generation of problem solvers by involving students in implementing solutions for local environment and civic problems.  They have worked with dozens of schools reaching many thousands of students through on-the-ground, paper-and-pen, stick-in-the-sand methods.  They are seeing real good traction among students to solve local civic problems and now want to create a platform to scale and reach many million citizens.
 
 # See Video of Kuldeep talking about ReapBenefit at Launchpad 2015
+[Watch Kuldeep's talk about ReapBenefit](https://vimeo.com/135623427)
 [![Watch Kuldeep's talk about ReapBenefit](https://www.dropbox.com/s/zpvxitqm4lmw3xr/reapbenefit-audit-tools-and-solutionsjpg.jpg?dl=0&raw=1)](https://vimeo.com/135623427 "Kuldeep on ReadBenefit")
 
 _Extracts from the talk._
