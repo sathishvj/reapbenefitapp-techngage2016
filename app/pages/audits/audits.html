@@ -3,9 +3,32 @@
   <button menuToggle>
     <ion-icon name="menu"></ion-icon>
   </button>
-  <ion-title style=''>Audits</ion-title>
+  <ion-title style=''>All Audits</ion-title>
 </ion-navbar>
 
 <ion-content>
-  Todo: Add audits.
+  <ion-card (click)='openWaterAuditLandingPage()'>
+
+    <img src="img/water_audit.jpg"/>
+
+    <ion-card-content>
+      <h1 class="card-title">
+        Audit Water Usage
+      </h1>
+      <p>Follow the steps here to audit the water usage in your home, office, or school.</p>
+    </ion-card-content>
+
+  </ion-card>
+  <ion-card>
+
+    <img src="img/electricity_audit.jpg"/>
+
+    <ion-card-content>
+      <h1 class="card-title">
+        Audit Electricity Usage
+      </h1>
+      <p>Follow the steps here to audit the electricity usage in your home, office, or school.</p>
+    </ion-card-content>
+
+  </ion-card>
 </ion-content>

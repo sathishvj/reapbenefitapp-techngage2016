@@ -8,5 +8,22 @@
 </ion-navbar>
 
 <ion-content>
-  Todo: Add list of civic authorities.
+  <ion-searchbar
+    [(ngModel)]="myInput"
+    [hideCancelButton]="shouldHideCancel"
+    (input)="onInput($event)"
+    (cancel)="onCancel($event)">
+  </ion-searchbar>
+
+  <ion-list>
+
+    <ion-item>
+      BBMP ...
+    </ion-item>
+    
+    <ion-item>
+      BESCOM...
+    </ion-item>
+
+  </ion-list>
 </ion-content>

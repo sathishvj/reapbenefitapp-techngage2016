@@ -10,6 +10,7 @@ import {ProfilePage} from './pages/profile/profile';
 import {ContactsPage} from './pages/contacts/contacts';
 import {WaterAuditLandingPage} from './pages/wateraudit-landing/wateraudit-landing';
 import {AuditsPage} from './pages/audits/audits';
+import {AnalyticsPage} from './pages/analytics/analytics';
 
 import {
     FIREBASE_PROVIDERS, defaultFirebase,
@@ -53,9 +54,10 @@ export class MyApp {
         // { title: 'Getting Started', component: GettingStartedPage },
         // { title: 'List', component: ListPage },
         { title: 'Home', component: HappeningPage},
-        { title: 'Add Event', component: AddEventPage},
         { title: 'Civic Authorities', component: ContactsPage},
         { title: 'Audits', component: AuditsPage},
+        { title: 'Add Event', component: AddEventPage},
+        { title: 'Analytics Dashboard', component: AnalyticsPage},
         { title: 'Profile', component: ProfilePage},
       ];
 
