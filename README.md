@@ -21,6 +21,15 @@ Now ReapBenefit wants to reach a Million young people in India in a space of 3 y
 - *Solve*: With do it yourself kits, pre-solved problem lists, mentoring, etc., young people discover solutions to their problems.
 - *Inspire*: Inform others of activities and get parents, teachers, neighbors, etc. to engage and solve problems.  
 
+# Scope for TechNgage Hackathon Round 2
+Build a UI prototype of a cross platform mobile app.
+- It should have basic UI to indicate what will be the eventual platform.
+
+# Future Scope
+- Build entire backend data model for capturing all data.
+- Allow multiple levels of views and analytics on activities for students/individuals, parents, teachers
+- Integrate with other civic platforms like RTI, BBMP, etc. and others who have promised APIs like BESCOM.
+- Have multiple types of user profiles.
 
 # Technologies Used as of now for TechNgage hackathon
 ```
@@ -30,4 +39,4 @@ HTML5, SASS, CSS3, JavaScript
 AngularFire2 beta
 Firebase 2.4.2
 ```
-(*) Outputs to Android, iOS, Windows Phone
+(\*) Outputs to Android, iOS, Windows Phone
