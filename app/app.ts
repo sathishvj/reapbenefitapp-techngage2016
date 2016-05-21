@@ -6,6 +6,7 @@ import {StatusBar} from 'ionic-native';
 import {HomePage} from './pages/home/home';
 import {HappeningPage} from './pages/happening/happening';
 import {AddEventPage} from './pages/addevent/addevent';
+import {ProfilePage} from './pages/profile/profile';
 
 import {
     FIREBASE_PROVIDERS, defaultFirebase,
@@ -50,6 +51,7 @@ export class MyApp {
         // { title: 'List', component: ListPage },
         { title: 'Home', component: HappeningPage},
         { title: 'Add Event', component: AddEventPage},
+        { title: 'Profile', component: ProfilePage},
       ];
 
       this.rootPage = HappeningPage;
