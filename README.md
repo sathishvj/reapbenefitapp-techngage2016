@@ -10,7 +10,7 @@ ReapBenefit started working with GarbageCollection.  But there are more civic pr
 
 Vibish is a 15 year old student who approached them to solve a problem of water wastage in their school.  ReapBenefit gives him a way to do an audit and measure what is the price being paid: tens of thousands of litres of good water.  Based on the data, ReapBenefit figures out a low cost fixture that can be attached to the taps saving water for the school, the earth, and every one of us indirectly - enough water to keep the school functional for an entire year.  Vibish is now a problem solver.
 
-![Innovative, cut water cans as waterless urinals](https://www.dropbox.com/s/epmm0fxp82e024f/reapbenefit-custom-waterless-urinal.jpg?dl=0)
+[Innovative, cut water cans as waterless urinals](https://www.dropbox.com/s/epmm0fxp82e024f/reapbenefit-custom-waterless-urinal.jpg?dl=0)
 Toilets are not purely about sanitation.  It's also a matter of human dignity and self-respect.  In India there are about 13 Lakh public schools and 50-60% of them have dysfunctional toilets.  
 
 Now ReapBenefit wants to reach a Million young people in India in a space of 3 years.  This app is the beginning of helping them reach that audience.  
