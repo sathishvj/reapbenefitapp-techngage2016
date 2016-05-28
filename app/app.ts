@@ -11,6 +11,7 @@ import {ContactsPage} from './pages/contacts/contacts';
 import {WaterAuditLandingPage} from './pages/wateraudit-landing/wateraudit-landing';
 import {AuditsPage} from './pages/audits/audits';
 import {AnalyticsPage} from './pages/analytics/analytics';
+import {AboutPage} from './pages/about/about';
 
 import {
     FIREBASE_PROVIDERS, defaultFirebase,
@@ -59,6 +60,7 @@ export class MyApp {
         { title: 'Add Event', component: AddEventPage},
         { title: 'Analytics Dashboard', component: AnalyticsPage},
         { title: 'Profile', component: ProfilePage},
+        { title: 'Contact Us', component: AboutPage},
       ];
 
       this.rootPage = HappeningPage;
